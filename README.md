@@ -1,5 +1,7 @@
 # flutter_star_rating package
 
+![alt text](screenshots/screen1.gif "Star Rating")
+
 
 A Star rating with touch and swipe rate enabled
 * Supports replacing default star icons with desired IconData
@@ -11,14 +13,6 @@ A Star rating with touch and swipe rate enabled
 * Supports click-to-rate
 * Spacing between stars
 
-## Getting Started
-
-In your flutter project add the dependency:
-```
-    dependencies:
-        ...
-        flutter_star_rating:
-```
 
 ## Usage example
 ```dart
@@ -52,7 +46,3 @@ filledIcon                  -   Full Rated Icon
 halfIcon                    -   Half Rated Icon
 defaultIcon                 -   Default Rated Icon
 ```
-
-### Screenshots
-
-![alt text](screenshots/screen1.gif "Star Rating")
