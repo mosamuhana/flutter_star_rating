@@ -2,8 +2,8 @@
 
 ![alt text](screenshots/screen1.gif "Star Rating")
 
-
-A Star rating with touch and swipe rate enabled
+## Features
+* A Star rating with touch and swipe rate enabled
 * Supports replacing default star icons with desired IconData
 * Supports half rate and full rate (1.0 or 0.5)
 * Swipe for incrementing/decrementing rate amount
